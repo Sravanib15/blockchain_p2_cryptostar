@@ -1,3 +1,10 @@
+### Versions used
+
+Truffle v5.4.3 (core: 5.4.3)
+Solidity v0.5.16 (solc-js)
+Node v16.6.0
+Web3.js v1.5.0
+
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
